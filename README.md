@@ -2,6 +2,7 @@
 
 
 This repository exhibits all the frequently used prediction models in Machine Learning with an increasing figure of accuracy.
+
 1)Employer’s Salaries: The salary of each employer is predicted on basis of the number of years of working experience of that particular employer using Simple Linear Regression.
 
 2)Startups: The prediction of the profit in each startup is calculated on basis of the investments made in various sectors using Multiple Linear Regression.
