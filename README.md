@@ -21,5 +21,5 @@ This repository exhibits all the frequently used prediction models in Machine Le
 
 9)Churn Modelling: This uses deep learning to predict whether a customer stays or leaves the bank on basis of various factors. We use Artificial Neural Networks.
 
-10)Dimensionality Reduction Here we classify a number of customers into different segments on basis of their tastes for wines and the clinical information about the different components of wine is also provided. This uses PRINCIPAL COMPONENT ANALYSIS and LINEAR DISCRIMINANT ANALYSIS individually.
+10)Dimensionality Reduction Here we classify a number of customers into different segments on basis of their tastes for wines and the clinical information about the different components of wine is also provided. This uses Principal Component Analysis and Linear Discriminant Analysis individually.
 
